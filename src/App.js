@@ -25,7 +25,7 @@ function App() {
           fontSize: '12px',
           width: '150px'
         }}>
-          npm run version
+          &gt; npm run version
         </div>
       </header>
     </div>

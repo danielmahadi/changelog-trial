@@ -8,14 +8,14 @@ function App() {
         <div style={{
           marginBottom: '10px'
         }}>
-          Welcome to the begining of using changelog  
+          The new Begining
         </div>
         <div style={{
           fontSize: '16px'
         }}>
           Here are the cool features:
           <br/>
-          Blazing fast | Eazy | Friendly | Not like other
+          Blazing fast | Eazy | Friendly | Not like others
         </div>
       </header>
     </div>

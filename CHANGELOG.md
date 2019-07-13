@@ -1,3 +1,13 @@
+# [0.2.0](https://github.com/danielmahadi/changelog-trial/compare/0.1.0...0.2.0) (2019-07-13)
+
+
+### Features
+
+* Add code sample ([1e8988f](https://github.com/danielmahadi/changelog-trial/commit/1e8988f))
+* New design: blue ocean ([03b840b](https://github.com/danielmahadi/changelog-trial/commit/03b840b))
+
+
+
 # 0.1.0 (2019-07-13)
 
 

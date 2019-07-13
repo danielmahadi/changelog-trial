@@ -5,7 +5,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Welcome to the begining of using changelog
+        <div style={{
+          marginBottom: '10px'
+        }}>
+          Welcome to the begining of using changelog  
+        </div>
+        <div style={{
+          fontSize: '16px'
+        }}>
+          Here are the cool features:
+          <br/>
+          Blazing fast | Eazy | Friendly | Not like other
+        </div>
       </header>
     </div>
   );

@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/danielmahadi/changelog-trial/compare/0.3.0...0.4.0) (2019-08-21)
+
+
+### Features
+
+* update new background for Halloween ([5d88cfc](https://github.com/danielmahadi/changelog-trial/commit/5d88cfc))
+
+
+
 # [0.3.0](https://github.com/danielmahadi/changelog-trial/compare/0.2.0...0.3.0) (2019-07-13)
 
 
